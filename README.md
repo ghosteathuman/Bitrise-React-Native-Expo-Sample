@@ -1,6 +1,6 @@
 # Bitrise-React-Native-Sample
 
-Simple React Native Project 
+Simple React Native Project.
 
 Working bitrise.yml included in the root of the project
 
