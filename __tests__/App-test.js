@@ -7,5 +7,5 @@ import renderer from 'react-test-renderer';
 
 it('renders correctly', () => {
   const rendered = renderer.create(<App />).toJSON();
-  expect(rendered).toBeFalsy();
+  expect(rendered).toBeTruthy();
 });
