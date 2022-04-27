@@ -20,7 +20,7 @@
   "devDependencies": {
     "@babel/core": "^7.12.9",
     "jest-expo": "^44.0.0",
-    "react-test-renderer": "^17.0.2"
+    "react-test-renderer": "^18.1.0"
   },
   "jest": {
     "preset": "react-native",
